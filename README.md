@@ -4,14 +4,12 @@
 🎓 Software Engineering degree  
 📍 Based in Brazil
 
----
 
 ### 🚀 About Me
 
 I build, adapt, and ship whatever I can imagine.  
 If a cool idea pops into my head — chances are I'll turn it into a project and put it out there.
 
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -21,7 +19,6 @@ If a cool idea pops into my head — chances are I'll turn it into a project and
 **Favorite Tools:**  
 `Unity` · `Figma` · `Trello` · `Adobe XD`
 
----
 
 ### 📌 Pinned Projects
 
@@ -32,7 +29,6 @@ A few personal favorites:
 
 > Plus **60+ public repos** — feel free to explore!
 
----
 
 ### 🧩 Fun Facts
 
@@ -41,6 +37,5 @@ A few personal favorites:
 - 🚫 I don’t drink alcohol, smoke, or have tattoos  
 - 🎮 Hobbies: building stuff, gaming, and watching anime
 
----
 
 📫 Let's connect or collaborate — feel free to reach out!
