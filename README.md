@@ -4,6 +4,7 @@
 🎓 Software Engineering degree  
 📍 Based in Brazil
 
+---
 
 ### 🚀 About Me
 
